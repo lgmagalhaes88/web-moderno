@@ -26,5 +26,6 @@ chavesVariadas.forEach((vl, ch) => {
 console.log(chavesVariadas.has(123))
 chavesVariadas.delete(123)
 
+Promise
 // false
 console.log(chavesVariadas.has(123))
